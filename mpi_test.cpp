@@ -1,8 +1,8 @@
-include <mpi.h>
-include <iostream>
-include <vector>
-include <cmath>
-include <algorithm>
+#include <mpi.h>
+#include <iostream>
+#include <vector>
+#include <cmath>
+#include <algorithm>
 
 // 假设我们有一个简单的图像类
 class Image {

@@ -1,7 +1,7 @@
-<iostream>
-include <vector>
-include <cmath>
-include <cuda_runtime.h>
+#include<iostream>
+#include <vector>
+#include <cmath>
+#include <cuda_runtime.h>
 
 class Image {
 public:

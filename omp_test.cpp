@@ -1,7 +1,7 @@
-include <iostream>
-include <vector>
-include <cmath>
-include <omp.h>
+#include <iostream>
+#include <vector>
+#include <cmath>
+#include <omp.h>
 
 // 假设我们有一个简单的图像类
 class Image {

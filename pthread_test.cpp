@@ -1,7 +1,7 @@
-include <iostream>
-include <vector>
-include <cmath>
-include <pthread.h>
+#include <iostream>
+#include <vector>
+#include <cmath>
+#include <pthread.h>
 
 define NUM_THREADS 8
 
